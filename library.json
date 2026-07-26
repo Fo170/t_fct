@@ -1,0 +1,22 @@
+{
+  "name": "t_fct",
+  "version": "1.0.0",
+  "description": "Arduino library for tracking device uptime (seconds) and estimating boot time via NTP",
+  "keywords": ["uptime", "boot-time", "ntp", "uptime-counter", "arduino"],
+  "authors": {
+    "name": "Fo170",
+    "url": "https://github.com/Fo170"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fo170/t_fct.git"
+  },
+  "homepage": "https://github.com/Fo170/t_fct",
+  "headers": "t_fct.h",
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32", "espressif8266", "samd", "raspberrypi"],
+  "examples": [
+    "examples/basic/basic.ino"
+  ]
+}
