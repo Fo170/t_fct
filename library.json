@@ -4,10 +4,11 @@
   "description": "Arduino library for tracking device uptime (seconds) and estimating boot time via NTP",
   "keywords": ["uptime", "boot-time", "ntp", "uptime-counter", "arduino"],
   "authors": {
-    "name": "Fo170",
+    "name": "Olivier FOURNET",
+    "email": "olivier.fournet@free.fr",
     "url": "https://github.com/Fo170"
   },
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
     "url": "https://github.com/Fo170/t_fct.git"
