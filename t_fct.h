@@ -1,5 +1,5 @@
 // Version de la librairie (source UNIQUE — agrégée par liste_lib.h)
-#define __T_FCT_H_VERSION__ "1.0.0"
+#define __T_FCT_H_VERSION__ "1.0.1"
 
 // t_fct : Temp de fonctionnement en secondes
 // https://github.com/Fo170/t_fct

@@ -1,6 +1,6 @@
 {
   "name": "t_fct",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Arduino library for tracking device uptime (seconds) and estimating boot time via NTP",
   "keywords": ["uptime", "boot-time", "ntp", "uptime-counter", "arduino"],
   "authors": {
